@@ -4,32 +4,32 @@
     "talks":[
         {
             "id":1,
-            "image":"https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png",
-            "title":"Trilha 1",
+            "image":"https://seeklogo.com/images/A/android-logo-8F906C4135-seeklogo.com.png",
+            "title":"Desenvolvimento Android",
             "description":"Texto utilizado somente para ilustracao do card"
         },
         {
             "id":2,
-            "image":"https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png",
-            "title":"Trilha 2",
+            "image":"https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png",
+            "title":"Arquitetura com Azure",
             "description":"Texto utilizado somente para ilustracao do card"
         },
         {
             "id":3,
-            "image":"https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png",
+            "image":"https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png",
             "title":"Banco de Dados",
             "description":"Texto utilizado somente para ilustracao do card"
         },
         {
             "id":4,
-            "image":"https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png",
-            "title":"Trilha 4",
+            "image":"https://seeklogo.com/images/M/microsoft-logo-24AA82DE4B-seeklogo.com.png",
+            "title":"Microsoft",
             "description":"Texto utilizado somente para ilustracao do card"
         },   
         {
             "id":5,
-            "image":"https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png",
-            "title":"Trilha 5",
+            "image":"https://seeklogo.com/images/C/cloud-logo-AA75121E54-seeklogo.com.png",
+            "title":"Arquitetura de Nuvem",
             "description":"Texto utilizado somente para ilustracao do card"
         }
     ]
